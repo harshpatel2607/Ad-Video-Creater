@@ -1,0 +1,7 @@
+{
+  "name": "hApItech AI Ad Director",
+  "description": "A premium AI-powered marketing and creative technology platform for generating brand-grade advertisements using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
